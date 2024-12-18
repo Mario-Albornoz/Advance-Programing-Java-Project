@@ -11,7 +11,11 @@ The objective of the game is to clear two phases.
    In this second and final phase the objective is to eat all the cherries across the map while avoiding the moving walls. Here the 
    difficulty increases since if the walls hit the player, then it will be instant game over, regardless of how many lives they had left.
 
+How to play:
 
+   To play you simply control Pacman with the arrows in your keyboard
+   Once the program starts the game will automatically start it won't stop until you win or GameOver
+   If you loose at the moment there is no restart button, therefore to try again close the desktop application and run the program again.
 
 How to Run thi program:
 There are no dependencies neede to run this Java programs since all the libraries used are pre-built into Java
